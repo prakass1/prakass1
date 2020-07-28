@@ -6,5 +6,5 @@
 - 🔭 I’m currently working on many things related with software engineering and data science.
 - 🌱 I’m currently learning mongodb, and advancing my python skills.
 - 👯 I’m looking to collaborate on python based projects related with data automation, data ingestion, and api development.
-- 💬 Ask me about python, visualizations and gaming.
+- 💬 Ask me about python, visualizations and gaming. Also, I like to answer on stackoverflow.
 - 📫 How to reach me: at GitHub @prakass1
