@@ -15,7 +15,7 @@ Meantime, I also do some contribution to help anyone. Below are some good refere
 2. HPC monitoring application using Telegraf,Influx,Grafana (TIG) - https://github.com/bethgelab/slurm-monitoring-public  
 3. Detect Traffic Signs - https://github.com/prakass1/detect-traffic-signs  
 4. Detect Gestures (Also a dataset contribution) -  https://github.com/prakass1/GestureRecognition  
-5. Udacity Projects (Will be updated in the upcoming days as I am going through the course)  
+5. Udacity Projects (Will be updated incrementally)  
 -- https://github.com/prakass1/aws-etl-emr  
 -- https://github.com/prakass1/DE-nano-degree  
 -- https://github.com/prakass1/sparkify-etl-aws  
