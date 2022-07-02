@@ -1,7 +1,7 @@
 ### Hi there 👋
 Thank you for visiting my profile. I have been working with the technology over past years and have expertise in building rest api, automation, data engineering, and data science using python. I am learning about cloud technology and apply cloud related architectures with data engineering, and analytics domains.  
 
-🔭 I have been working currently with a product in AWS related to Object detection.  
+🔭 I have been working currently with a products in AWS.  
 
 Meantime, I also do some contribution to help anyone. Below are some good references of my projects:  
 
