@@ -5,11 +5,6 @@ Thank you for visiting my profile. I have been working with the technology over 
 
 Meantime, I also do some contribution to help anyone. Below are some good references of my projects:  
 
-##### Software Engineering in Python :rocket:
-1. Flask-Restful template with an example of getting daily quotes - https://github.com/prakass1/Flask-Restful-Template
-2. A blogger application which can help to setup your own with already built-in components - https://github.com/prakass1/SimplisticBlogger
-3. Digit recognizer application - https://github.com/prakass1/digitrecognizer
-
 #### Data Engineering / Data Science in Python :rocket: :  
 1. Crawler for google scholar to extract author information - https://github.com/bethgelab/google_scholar_crawler  
 2. HPC monitoring application using Telegraf,Influx,Grafana (TIG) - https://github.com/bethgelab/slurm-monitoring-public  
@@ -22,6 +17,12 @@ Meantime, I also do some contribution to help anyone. Below are some good refere
 -- https://github.com/prakass1/udacity-sparkify-etl-cassandra  
 -- https://github.com/prakass1/udacity-sparkify-etl  
 6. My Master Thesis protoype tool for Medical Analytics - https://github.com/prakass1/InteractiveSimilarityExplorer   
+
+
+##### Software Engineering in Python :rocket:
+1. Flask-Restful template with an example of getting daily quotes - https://github.com/prakass1/Flask-Restful-Template
+2. A blogger application which can help to setup your own with already built-in components - https://github.com/prakass1/SimplisticBlogger
+3. Digit recognizer application - https://github.com/prakass1/digitrecognizer
 
 <!--
 **prakass1/prakass1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
