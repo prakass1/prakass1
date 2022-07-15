@@ -1,7 +1,7 @@
 ### Hi there 👋
-Thank you for visiting my profile. I have been working with the technology over past years and have expertise in building rest api, automation, data engineering, and data science using python. I am learning about cloud technology and apply cloud related architectures with data engineering, and analytics domains.  
+Thank you for visiting my profile. I have been working with the technology over past 5+ years and have expertise in building rest apis, automation, data engineering, and data science using python. I am learning about cloud technology and apply cloud related architectures with data engineering, and analytics domains.  
 
-🔭 I have been working currently with a products in AWS.  
+🔭 I have been working currently with an ml product in AWS.  
 
 Meantime, I also do some contribution to help anyone. Below are some good references of my projects:  
 
@@ -10,7 +10,7 @@ Meantime, I also do some contribution to help anyone. Below are some good refere
 2. HPC monitoring application using Telegraf,Influx,Grafana (TIG) - https://github.com/bethgelab/slurm-monitoring-public  
 3. Detect Traffic Signs - https://github.com/prakass1/detect-traffic-signs  
 4. Detect Gestures (Also a dataset contribution) -  https://github.com/prakass1/GestureRecognition  
-5. Udacity Projects (Will be updated incrementally)  
+5. Udacity Projects - Data Engineering Nanodegree (Will be updated incrementally)  
 -- https://github.com/prakass1/aws-etl-emr  
 -- https://github.com/prakass1/DE-nano-degree  
 -- https://github.com/prakass1/sparkify-etl-aws  
