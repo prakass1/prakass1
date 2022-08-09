@@ -20,7 +20,7 @@ Meantime, I also do some contribution to help anyone. Below are some good refere
 7. Implementation of Rank Based Outlier Detection using kNN - https://github.com/prakass1/Rank_Based_Detection_Algorithm
 
 
-##### Software Engineering in Python :rocket:
+#### Software Engineering in Python :rocket:
 1. Flask-Restful template with an example of getting daily quotes - https://github.com/prakass1/Flask-Restful-Template
 2. A blogger application which can help to setup your own with already built-in components - https://github.com/prakass1/SimplisticBlogger
 3. Digit recognizer application - https://github.com/prakass1/digitrecognizer
