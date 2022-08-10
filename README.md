@@ -1,5 +1,5 @@
 ### Hi there 👋
-Thank you for visiting my profile. I have been working with the technology over past 5+ years and have expertise in building rest apis, automation, data engineering, and data science using python. I am learning about cloud technology and apply cloud related architectures with data engineering, and analytics domains.  
+Thank you for visiting my profile. I have been working with the technology over about 7 years and have expertise in multiple areas such as building rest apis, automation, data engineering, and data science using python stack. I am learning about cloud technologies, services and like to apply them in cloud related architectures with data engineering, and analytics domains.  
 
 🔭 I have been working currently with an ml product in AWS.  
 
