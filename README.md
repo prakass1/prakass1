@@ -16,6 +16,7 @@ Meantime, I also do some contribution to help anyone. Below are some good refere
 -- https://github.com/prakass1/sparkify-etl-aws  
 -- https://github.com/prakass1/udacity-sparkify-etl-cassandra  
 -- https://github.com/prakass1/udacity-sparkify-etl  
+-- The Final term project: https://github.com/prakass1/udacity-de-capstone.git   
 6. My Master Thesis protoype tool for Medical Analytics - https://github.com/prakass1/InteractiveSimilarityExplorer   
 7. Implementation of Rank Based Outlier Detection using kNN - https://github.com/prakass1/Rank_Based_Detection_Algorithm
 
