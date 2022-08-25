@@ -11,11 +11,12 @@ Meantime, I also do some contribution to help anyone. Below are some good refere
 3. Detect Traffic Signs - https://github.com/prakass1/detect-traffic-signs  
 4. Detect Gestures (Also a dataset contribution) -  https://github.com/prakass1/GestureRecognition  
 5. Udacity Projects - Data Engineering Nanodegree (Will be updated incrementally)  
--- https://github.com/prakass1/aws-etl-emr  
--- https://github.com/prakass1/DE-nano-degree  
--- https://github.com/prakass1/sparkify-etl-aws  
--- https://github.com/prakass1/udacity-sparkify-etl-cassandra  
--- https://github.com/prakass1/udacity-sparkify-etl  
+-- EMR Computation: https://github.com/prakass1/aws-etl-emr  
+-- Other Lessons: https://github.com/prakass1/DE-nano-degree  
+-- Performing ETL using AWS: https://github.com/prakass1/sparkify-etl-aws  
+-- ETL using cassandra: https://github.com/prakass1/udacity-sparkify-etl-cassandra  
+-- ETL using python: https://github.com/prakass1/udacity-sparkify-etl
+-- ETL orchestration with Airflow: https://github.com/prakass1/airflow-etl
 -- The Final term project: https://github.com/prakass1/udacity-de-capstone.git   
 6. My Master Thesis protoype tool for Medical Analytics - https://github.com/prakass1/InteractiveSimilarityExplorer   
 7. Implementation of Rank Based Outlier Detection using kNN - https://github.com/prakass1/Rank_Based_Detection_Algorithm
