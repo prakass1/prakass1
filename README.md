@@ -1,7 +1,7 @@
 ### Hi there 👋
 Thank you for visiting my profile. I have been working with the technology over about 7 years and have expertise in multiple areas such as building rest apis, automation, data engineering, and data science using python stack. I am learning about cloud technologies, services and like to apply them in cloud related architectures with data engineering, and analytics domains.  
 
-🔭 I have been working currently with an ml product in AWS.  
+🔭 I have been studying and understanding about data engineering in aws and concentrating on serverless architectures.
 
 Meantime, I also do some contribution to help anyone. Below are some good references of my projects:  
 
