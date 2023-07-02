@@ -1,5 +1,5 @@
 ### Hi there 👋
-Thank you for visiting my profile. I have been working with the technology over about 7 years and have expertise in multiple areas such as machine learning, data engineering and software engineering using python. I work on AWS and is familiar with building data pipelines and orchestration mechanisms suitable for either data analysis, or driving that for machine learning. I am improving my cloud capabilities, and like to apply them in cloud related architectures with data engineering, and analytics domains.  
+Thank you for visiting my profile. I have been working with the technology over about 7 years and have expertise in multiple areas such as machine learning, data engineering and software engineering using python. I work on AWS and is familiar with building data pipelines and orchestration mechanisms suitable for either data analysis, or driving that for machine learning. I am improving my cloud capabilities, and like to apply them in cloud related architectures with DevOps, data engineering, and analytics domains.  
 
 🔭 Exploring and implementing data pipelines in AWS.
 
